@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aniket260202" alt="Aniket260202" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on Linkedin: https://www.linkedin.com/in/aniket-kumar-jha-107708239/ </h3>
+<h3 align="left">My Insta ID: harsh_kr._jha </h3>
 <p align="left">
 </p>
 
